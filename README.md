@@ -1,2 +1,2 @@
 # JP-MORGEN-TASK--1
-thisis sample project 
+this is sample project 
